@@ -4,12 +4,12 @@ A YouTube API 3 Library for uploading a video to youtube  for CodeIgniter PHP Fr
 
 ## Usage:
 * Change client auth id secret and Authorized redirect URI in application/config/Google.php and copy in the appropriate directory in your project.
-* Add videos folder(which contains a sample videofor testing purpose) outside application folder ,i.e. in you root directory.
+* Add videos folder(which contains a sample video for testing purpose) outside application folder ,i.e. in you root directory.
 * Add google-api-php-client folder and Google_client_api.php in application/libraries folder in your project.
-* A sample controller welcome.php contains an example to call the custom library Google_client_api.Path is application/controllers
+* A sample controller welcome.php contains an example to call the custom library Google_client_api.Path is application/controllers.
 
 
-## Compatibility
+## Compatibility:
 
 The library has been tested successfully with the below mentioned environment:
 
@@ -18,11 +18,11 @@ The library has been tested successfully with the below mentioned environment:
 - [PHP 5.6.x](http://php.net/)
 
 
-## Requirements
+## Requirements:
 
 * Codeignitor Framework >= 2.x
 
-## Installation
+## Installation:
 
 The most common flow is:
 
@@ -79,6 +79,7 @@ This library is licensed under the MIT license.
 ## Author
 
 - [TVN RAHUL](http://alleyglobal.com)
+- [BALAJI ONGOLE] (testing)
 
 
 
