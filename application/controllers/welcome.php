@@ -25,14 +25,17 @@ class Welcome extends CI_Controller {
 	public function youtube() {
 		
 		$this->load->library('google_client_api');
-		$video= "sample.mp4";//video file which is in videos folder (this should be outside application folder)
-		$title= "your custom title for youtube video v3"; //your title for youtube video
-		$desc= "your custom youtube video description"; //your description for youtube video
-		$tags=["rahultvn","youtubeapi3"]; //your custom tags for youtube video
-		$privacy_status="public"; //video status public or private
+		///echo $this->rahul->my_function();
+		//exit;
+		$video= "linkedin.mp4";
+		$title= "final test add youtube video v3";
+		$desc= "this is a final test youtube video desc";
+		$tags=["rahultvn","youtubeapi3"];
+		$privacy_status="public";
 		$youtube=$this->google_client_api->youtube_upload($video,$title,$desc,$tags,$privacy_status);
 		print_r($youtube);
-		//echo "hi";	
+		//echo "hi";
+		
 	}
 	
 }
