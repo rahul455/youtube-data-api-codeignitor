@@ -1,4 +1,4 @@
-# YouTube Data APIv3 CodeIgniter libray for uploading a video 
+# YouTube Data API v3 CodeIgniter libray for uploading a video 
 
 A YouTube API 3 Library for uploading a video to youtube  for CodeIgniter PHP Framework (3.x)
 
