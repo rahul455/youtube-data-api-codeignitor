@@ -79,7 +79,9 @@ This library is licensed under the MIT license.
 ## Author
 
 - [TVN RAHUL](http://alleyglobal.com)
-- [BALAJI ONGOLE] (testing)
+
+## Testing
+- [BALAJI ONGOLE] 
 
 
 
