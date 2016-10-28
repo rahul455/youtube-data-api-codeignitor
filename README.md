@@ -1,6 +1,6 @@
 # YouTube Data API v3 CodeIgniter library for uploading a video 
 
-A YouTube API 3 Library for uploading a video to youtube  for CodeIgniter PHP Framework (3.x)
+A YouTube API 3 Library for uploading a video to youtube  for CodeIgniter PHP Framework (3.x).Upload videos to youtube using codeignitor is very simple using this library.
 
 ## Usage:
 * Change client auth id secret and Authorized redirect URI in application/config/Google.php and copy in the appropriate directory in your project.
