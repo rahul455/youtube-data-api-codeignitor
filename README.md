@@ -73,7 +73,9 @@ Simple example:
 
 	/* End of file welcome.php */
 	/* Location: ./application/controllers/welcome.php */
-	```
+
+```
+
 ## License
 This library is licensed under the MIT license.
 
