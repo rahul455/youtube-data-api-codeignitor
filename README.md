@@ -31,7 +31,7 @@ The most common flow is:
 3. Modify default controller Welcome.php with the given controller in application/controllers folder in your project.
 4. get client id,client secret and redirect uri from https://console.developers.google.com
 Simple example:
-	
+
     <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 	class Welcome extends CI_Controller {
